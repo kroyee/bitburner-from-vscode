@@ -1,0 +1,14 @@
+{
+  "name": "bitburner",
+  "version": "1.0.0",
+  "description": "Use TS and the bitburner extension for VS code to manage your scripts",
+  "main": "index.js",
+  "author": "Olle Samuelsson",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
