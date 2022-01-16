@@ -6,7 +6,8 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "outDir": "build",
-    "strict": false
+    "strict": false,
+    "baseUrl": "./src"
   },
   "include": ["src/**/*"]
 }
