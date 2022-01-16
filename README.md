@@ -4,6 +4,12 @@ This repo is meant to be used with https://github.com/bitburner-official/bitburn
 
 ## Setup
 
+### This repo
+
+Run `yarn install` to install all dependencies (currently only typescript).
+
+### Bitburner extension
+
 Once you have the extension up and running you need to configure it:
 
 - Set scriptRoot to `./build/` in your workspace settings
